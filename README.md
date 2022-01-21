@@ -1,5 +1,5 @@
 # Live Face Detection
- You will be able to use this tool to detect faces from your webcam in real time. This software is made with python and machine learning algorithm has also been used to teach the machine how a face looks like , using haarcascade. We will be using opencv for this project. This might not work much accurately as it depends upon your wbcam but still will work properly with a surity oh 90% .
+ You will be able to use this tool to detect faces from your webcam in real time. This software is made with python and machine learning algorithm has also been used to teach the machine how a face looks like , using haarcascade. We will be using opencv for this project. This might not work much accurately as it depends upon your webcam but still will work properly with a surity of 90% .
  
  Follow the steps below to execute the program properly without errors -
 
